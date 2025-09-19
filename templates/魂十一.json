@@ -1,0 +1,17 @@
+{
+  "name": "魂十一",
+  "battle_img": "F:/MyDocuments/codes/yinyangshi-code/hun11.jpg",
+  "victory_img": "F:/MyDocuments/codes/yinyangshi-code/failure.png",
+  "defeat_img": "failure.png",
+  "reward_img": "jiesuan.png",
+  "battle_confidence": 0.8,
+  "result_confidence": 0.8,
+  "reward_confidence": 0.8,
+  "cycles": 100,
+  "error_action": "continue",
+  "rest_cycles": "8-12",
+  "rest_time": "0-3",
+  "max_wait_time": 20,
+  "random_click_x": 800,
+  "random_click_y": 450
+}

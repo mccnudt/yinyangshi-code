@@ -390,7 +390,7 @@ def daixinghuodong():
         pyautogui.click()
         p_victory1 = button('final.png')
         pyautogui.moveTo(p_victory1[0]+random.randint(-30, 30),
-                         p_victory1[1]+random.randint(-200, -100), mouse[0], mouse[1])
+                         p_victory1[1]+random.randint(100, 200), mouse[0], mouse[1])
         pyautogui.click()
         time.sleep(1.5)
         pyautogui.click()

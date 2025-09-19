@@ -1,0 +1,17 @@
+{
+  "name": "御灵",
+  "battle_img": "tz.png",
+  "victory_img": "victory.png",
+  "defeat_img": "failure.png",
+  "reward_img": "jiesuan.png",
+  "battle_confidence": 0.8,
+  "result_confidence": 0.8,
+  "reward_confidence": 0.8,
+  "cycles": 50,
+  "error_action": "stop",
+  "rest_cycles": "4-6",
+  "rest_time": "3-5",
+  "max_wait_time": 60,
+  "random_click_x": 800,
+  "random_click_y": 450
+}

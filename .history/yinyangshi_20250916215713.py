@@ -381,7 +381,7 @@ def daixinghuodong():
     yanchi = int(input())
     time.sleep(3)
     for i in range(1, N+1):
-        p_tz = button('huodong.png')
+        p_tz = button('pata.png')
         mouse = mouse_method()
         pyautogui.moveTo(p_tz[0]+random.randint(-30, 30),
                          p_tz[1]+random.randint(-30, 30), mouse[0], mouse[1])

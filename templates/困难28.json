@@ -1,0 +1,22 @@
+{
+  "name": "\u56f0\u96be28",
+  "battle_img": "tansuokaishi.png",
+  "victory_img": "victory.png",
+  "defeat_img": "failure.png",
+  "reward_img": "jiesuan.png",
+  "kun28_img": "kun28.png",
+  "explore_img": "tansuo.png",
+  "end_img": "tansuojieshu.png",
+  "treasure_img": "zhanlipin.png",
+  "battle_confidence": 0.7,
+  "result_confidence": 0.8,
+  "reward_confidence": 0.8,
+  "explore_confidence": 0.8,
+  "end_confidence": 0.7,
+  "treasure_confidence": 0.8,
+  "cycles": 20,
+  "error_action": "continue",
+  "rest_cycles": "1-2",
+  "rest_time": "10-15",
+  "max_wait_time": 90
+}

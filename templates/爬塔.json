@@ -1,0 +1,17 @@
+{
+  "name": "爬塔",
+  "battle_img": "F:/MyDocuments/codes/yinyangshi-code/pata.png",
+  "victory_img": "F:/MyDocuments/codes/yinyangshi-code/final.png",
+  "defeat_img": "F:/MyDocuments/codes/yinyangshi-code/failure.png",
+  "reward_img": "F:/MyDocuments/codes/yinyangshi-code/final.png",
+  "battle_confidence": 0.8,
+  "result_confidence": 0.8,
+  "reward_confidence": 0.8,
+  "cycles": 50,
+  "error_action": "continue",
+  "rest_cycles": "20-25",
+  "rest_time": "3-7",
+  "max_wait_time": 60,
+  "random_click_x": 1400,
+  "random_click_y": 450
+}

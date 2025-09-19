@@ -1,0 +1,17 @@
+{
+  "name": "自定义模板",
+  "battle_img": "F:/MyDocuments/codes/yinyangshi-code/pata.png",
+  "victory_img": "F:/MyDocuments/codes/yinyangshi-code/victory.png",
+  "defeat_img": "F:/MyDocuments/codes/yinyangshi-code/failure.png",
+  "reward_img": "F:/MyDocuments/codes/yinyangshi-code/reward.png",
+  "battle_confidence": 0.8,
+  "result_confidence": 0.7,
+  "reward_confidence": 0.7,
+  "cycles": 500,
+  "error_action": "continue",
+  "rest_cycles": "40-50",
+  "rest_time": "3-7",
+  "max_wait_time": 16,
+  "random_click_x": 1400,
+  "random_click_y": 400
+}

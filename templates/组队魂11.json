@@ -1,0 +1,17 @@
+{
+  "name": "\u7ec4\u961f\u9b4211",
+  "battle_img": "hun11tz.png",
+  "victory_img": "victory.png",
+  "defeat_img": "failure.png",
+  "reward_img": "jiesuan.png",
+  "battle_confidence": 0.8,
+  "result_confidence": 0.8,
+  "reward_confidence": 0.8,
+  "cycles": 50,
+  "error_action": "continue",
+  "rest_cycles": "4-6",
+  "rest_time": "3-5",
+  "max_wait_time": 60,
+  "captain_window_title": "\u9634\u9633\u5e08-\u7f51\u6613\u6e38\u620f",
+  "teammate_window_title": "\u9634\u9633\u5e08-\u7f51\u6613\u6e38\u620f"
+}

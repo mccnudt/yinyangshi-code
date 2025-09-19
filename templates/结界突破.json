@@ -1,0 +1,15 @@
+{
+  "name": "\u7ed3\u754c\u7a81\u7834",
+  "battle_img": "tupo1.png",
+  "victory_img": "jiesuan.png",
+  "defeat_img": "failure.png",
+  "attack_img": "jingongjiejie.png",
+  "battle_confidence": 0.8,
+  "result_confidence": 0.8,
+  "reward_confidence": 0.7,
+  "cycles": 30,
+  "error_action": "continue",
+  "rest_cycles": "2-4",
+  "rest_time": "2-4",
+  "max_wait_time": 60
+}

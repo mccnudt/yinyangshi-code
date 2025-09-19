@@ -1,0 +1,15 @@
+{
+  "name": "\u4e1a\u539f\u706b",
+  "battle_img": "tz.png",
+  "victory_img": "victory.png",
+  "defeat_img": "failure.png",
+  "reward_img": "jiesuan.png",
+  "battle_confidence": 0.7,
+  "result_confidence": 0.6,
+  "reward_confidence": 0.8,
+  "cycles": 80,
+  "error_action": "continue",
+  "rest_cycles": "6-10",
+  "rest_time": "3-7",
+  "max_wait_time": 60
+}

@@ -1,0 +1,15 @@
+{
+  "name": "\u6d3b\u52a8",
+  "battle_img": "huodong.png",
+  "victory_img": "jiesuan.png",
+  "defeat_img": "failure.png",
+  "reward_img": "jiesuan.png",
+  "battle_confidence": 0.8,
+  "result_confidence": 0.8,
+  "reward_confidence": 0.8,
+  "cycles": 50,
+  "error_action": "continue",
+  "rest_cycles": "5-8",
+  "rest_time": "3-6",
+  "max_wait_time": 60
+}
